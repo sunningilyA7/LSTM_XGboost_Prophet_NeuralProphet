@@ -1,4 +1,5 @@
-# XGboost + prophet
+# LSTM_XGboost_Prophet_NeuralProphet
+Public
 
 It is known that Prophet can effectively decompose time trends, and LSTM can incorporate additional information into training.
 
