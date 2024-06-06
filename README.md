@@ -52,6 +52,7 @@ Optuna is an automatic hyperparameter optimization software framework, particula
 ### Hyperparameter Tuning with Optuna: Optuna is used to optimize the NeuralProphet model parameters, such as learning rate, the number of layers, or other model-specific settings to improve accuracy.
 ### Training and Prediction: The optimized model forecasts future stock prices based on historical data, potentially incorporating external regressors like market indicators.
 
+Data from https://www.kaggle.com/datasets/meetnagadia/netflix-stock-price-data-set-20022022
 
 
 
